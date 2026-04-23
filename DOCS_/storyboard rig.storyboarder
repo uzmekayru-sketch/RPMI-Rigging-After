@@ -1,0 +1,148 @@
+{
+  "version": "2.1.0",
+  "aspectRatio": "1",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "MYVI4",
+      "url": "board-1-MYVI4.png",
+      "newShot": false,
+      "lastEdited": 1776955284235,
+      "layers": {
+        "pencil": {
+          "url": "board-1-MYVI4-pencil.png"
+        },
+        "shot-generator": {
+          "url": "board-1-MYVI4-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-1-MYVI4-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-MYVI4-fill.png"
+        },
+        "tone": {
+          "url": "board-1-MYVI4-tone.png"
+        },
+        "ink": {
+          "url": "board-1-MYVI4-ink.png"
+        },
+        "notes": {
+          "url": "board-1-MYVI4-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 172055.33082001584
+    },
+    {
+      "uid": "X3ZIH",
+      "url": "board-2-X3ZIH.png",
+      "newShot": false,
+      "lastEdited": 1776955587725,
+      "layers": {
+        "pencil": {
+          "url": "board-2-X3ZIH-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-X3ZIH-ink.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 211084.41075876897
+    },
+    {
+      "uid": "1SWCF",
+      "url": "board-3-1SWCF.png",
+      "newShot": false,
+      "lastEdited": 1776955990177,
+      "layers": {
+        "pencil": {
+          "url": "board-3-1SWCF-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-1SWCF-ink.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 179873.02848504638
+    },
+    {
+      "uid": "UD5RE",
+      "url": "board-4-UD5RE.png",
+      "newShot": false,
+      "lastEdited": 1776956282461,
+      "layers": {
+        "pencil": {
+          "url": "board-4-UD5RE-pencil.png"
+        },
+        "shot-generator": {
+          "url": "board-4-UD5RE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-4-UD5RE-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-UD5RE-fill.png"
+        },
+        "tone": {
+          "url": "board-4-UD5RE-tone.png"
+        },
+        "ink": {
+          "url": "board-4-UD5RE-ink.png"
+        },
+        "notes": {
+          "url": "board-4-UD5RE-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 6000,
+      "lineMileage": 311117.0943018047
+    },
+    {
+      "uid": "JD7P1",
+      "url": "board-5-JD7P1.png",
+      "newShot": false,
+      "lastEdited": 1776957116652,
+      "layers": {
+        "pencil": {
+          "url": "board-5-JD7P1-pencil.png"
+        },
+        "shot-generator": {
+          "url": "board-5-JD7P1-shot-generator.png"
+        },
+        "reference": {
+          "url": "board-5-JD7P1-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-5-JD7P1-fill.png"
+        },
+        "tone": {
+          "url": "board-5-JD7P1-tone.png"
+        },
+        "ink": {
+          "url": "board-5-JD7P1-ink.png"
+        },
+        "notes": {
+          "url": "board-5-JD7P1-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 8000,
+      "lineMileage": 168071.29044971365
+    }
+  ]
+}
